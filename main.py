@@ -1,6 +1,6 @@
 # Micropython A9G - Send GPS Data via SMS Every 1 Minute (No Altitude Condition)
 # Source: Adapted from Pulkin's Micropython repository
-# Author: [Your Name]
+# Author: Asjad
 
 import gps
 import cellular
